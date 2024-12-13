@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Farm Budget</string>
+    <string name="first_line">Create an account</string>
+    <string name="second_line">Maximise your farm potential</string>
 </resources>

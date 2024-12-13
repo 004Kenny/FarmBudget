@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.farmbudget"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.farmbudget"
@@ -38,6 +38,7 @@ android {
 dependencies {
 
     implementation(libs.androidx.core.ktx)
+    implementation(libs.lottie)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation(libs.androidx.activity)
