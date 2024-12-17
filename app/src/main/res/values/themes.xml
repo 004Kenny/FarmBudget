@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.FarmBudget" parent="Base.Theme.FarmBudget" />
+
+    <!-- Custom Hint Style for TextInputLayout -->
+    <style name="TextInputLayoutHint" parent="Widget.Material3.TextInputLayout.FilledBox.Dense">
+        <item name="android:textSize">14sp</item>
+    </style>
 </resources>
