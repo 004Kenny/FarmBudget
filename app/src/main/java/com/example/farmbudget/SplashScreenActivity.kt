@@ -16,7 +16,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
         val splashScreenDuration = 3000L
         window.decorView.postDelayed({
-            startActivity(Intent(this, CreateAccount::class.java))
+            startActivity(Intent(this, IntroActivity::class.java))
             finish()
         }, splashScreenDuration)
     }

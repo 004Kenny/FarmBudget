@@ -2,4 +2,12 @@
     <string name="app_name">Farm Budget</string>
     <string name="first_line">Create an account</string>
     <string name="second_line">Maximise your farm potential</string>
+    <string name="cost_efficiency">Cost Efficiency and Resource Optimization</string>
+    <string name="increase_profitability">increase profitability,and minimize environmental impact, all while improving the sustainability of their farm.</string>
+    <string name="data_drive">Data-Driven Decision Making</string>
+    <string name="actionable">With actionable insights, farmers can adjust irrigation schedules, optimize fertilization, and manage pest outbreaks more effectively.</string>
+    <string name="improve">Improved Crop Production</string>
+    <string name="actionable2">With actionable insights, farmers can adjust irrigation schedules, optimize fertilization, and manage pest outbreaks more effectively.</string>
+
+
 </resources>
