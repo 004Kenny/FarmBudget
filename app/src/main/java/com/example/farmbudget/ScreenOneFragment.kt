@@ -12,6 +12,8 @@ class ScreenOneFragment : Fragment(){
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
+
         return inflater.inflate(R.layout.screen_one, container, false)
     }
 
